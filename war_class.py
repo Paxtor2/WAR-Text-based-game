@@ -1,4 +1,3 @@
-#%%
 from random import shuffle
 class Card:
     suits = [ "spades" , "hearts" , "diamonds" , "clubs" ]
@@ -87,4 +86,3 @@ class Game:
             return 'It was a tie!'
 
         
-# %%
